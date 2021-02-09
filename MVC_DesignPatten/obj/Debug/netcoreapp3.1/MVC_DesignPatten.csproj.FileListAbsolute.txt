@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\obj\Debug\netcoreapp3.1\MVC_DesignPatten.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\obj\Debug\netcoreapp3.1\MVC_DesignPatten.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\obj\Debug\netcoreapp3.1\MVC_DesignPatten.AssemblyInfo.cs
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\obj\Debug\netcoreapp3.1\MVC_DesignPatten.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\bin\Debug\netcoreapp3.1\MVC_DesignPatten.exe
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\bin\Debug\netcoreapp3.1\MVC_DesignPatten.deps.json
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\bin\Debug\netcoreapp3.1\MVC_DesignPatten.runtimeconfig.json
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\bin\Debug\netcoreapp3.1\MVC_DesignPatten.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\bin\Debug\netcoreapp3.1\MVC_DesignPatten.dll
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\bin\Debug\netcoreapp3.1\MVC_DesignPatten.pdb
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\obj\Debug\netcoreapp3.1\MVC_DesignPatten.dll
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\obj\Debug\netcoreapp3.1\MVC_DesignPatten.pdb
+C:\Users\Josh\source\repos\MVC_DesignPatten\MVC_DesignPatten\obj\Debug\netcoreapp3.1\MVC_DesignPatten.genruntimeconfig.cache
